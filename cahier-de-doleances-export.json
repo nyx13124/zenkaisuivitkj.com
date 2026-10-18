@@ -1,0 +1,534 @@
+{
+  "problems": [
+    {
+      "id": "v1",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "culture",
+      "title": "Des TKJ peu présents, qui ne font rien",
+      "detail": "Il faudrait renforcer leur présence. Beaucoup ne sont pas assez investis.",
+      "by": [
+        "Sota Uvo",
+        "Naoki Arata"
+      ]
+    },
+    {
+      "id": "v2",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "rule",
+      "title": "Oral TKJ pas assez sévère",
+      "detail": "Être plus sévère lors de l’oral.",
+      "by": [
+        "Sota Uvo"
+      ]
+    },
+    {
+      "id": "v3",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "culture",
+      "title": "Un village qui manque de réactivité",
+      "detail": "Tout le monde doit être plus réactif.",
+      "by": [
+        "Sota Uvo"
+      ]
+    },
+    {
+      "id": "v4",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "fast",
+      "title": "Un village trop endormi, un Hokage trop discret",
+      "detail": "Le Hokage devrait se réveiller un peu : on ne le voit pas assez.",
+      "by": [
+        "Coco Higuma"
+      ]
+    },
+    {
+      "id": "v5",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "culture",
+      "title": "Peu d’investissement hors combat",
+      "detail": "Les habitants devraient s’investir davantage dans la vie du village et prendre des initiatives.",
+      "by": [
+        "Shikame Nara"
+      ]
+    },
+    {
+      "id": "v6",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "fast",
+      "title": "Pas assez de sport",
+      "detail": "",
+      "by": [
+        "Chosaa Akimichi"
+      ]
+    },
+    {
+      "id": "v7",
+      "sec": "village",
+      "group": "Investissement et réactivité",
+      "lvl": "fast",
+      "title": "Un entraînement obligatoire pour tout le village",
+      "detail": "Proposition : une fois par an.",
+      "by": []
+    },
+    {
+      "id": "v8",
+      "sec": "village",
+      "group": "Comportement et hiérarchie",
+      "lvl": "culture",
+      "title": "Trop d’ego",
+      "detail": "Des personnes se prennent pour le personnage principal du village.",
+      "by": [
+        "Ken Nara"
+      ]
+    },
+    {
+      "id": "v9",
+      "sec": "village",
+      "group": "Comportement et hiérarchie",
+      "lvl": "culture",
+      "title": "Manque de respect envers la hiérarchie",
+      "detail": "",
+      "by": [
+        "Edoga Akio"
+      ]
+    },
+    {
+      "id": "v10",
+      "sec": "village",
+      "group": "Comportement et hiérarchie",
+      "lvl": "fast",
+      "title": "Des Tokubetsu qui ne donnent pas l’exemple",
+      "detail": "Leur comportement devrait être irréprochable. Pas de lariat dans le village pour aller plus vite.",
+      "by": [
+        "Hizuki Hyuga"
+      ]
+    },
+    {
+      "id": "v11",
+      "sec": "village",
+      "group": "Comportement et hiérarchie",
+      "lvl": "rule",
+      "title": "Des règles enfreintes sans vraies sanctions",
+      "detail": "Par exemple aller sur les marches ou entrer dans une discussion de HG.",
+      "by": [
+        "Venta Itetsu"
+      ]
+    },
+    {
+      "id": "v12",
+      "sec": "village",
+      "group": "Copinage et représentation",
+      "lvl": "culture",
+      "title": "Du copinage dans les sections",
+      "detail": "Captures, guerre, examens à l’académie : du favoritisme est signalé à plusieurs endroits.",
+      "by": [
+        "Isa Rei"
+      ]
+    },
+    {
+      "id": "v13",
+      "sec": "village",
+      "group": "Copinage et représentation",
+      "lvl": "culture",
+      "title": "Pas assez de femmes parmi les HG",
+      "detail": "Aucune Kage femme. Aucune solution proposée pour l’instant.",
+      "by": [
+        "Isa Rei"
+      ]
+    },
+    {
+      "id": "v14",
+      "sec": "village",
+      "group": "Copinage et représentation",
+      "lvl": "fast",
+      "title": "Pas assez de filles prises au bastion",
+      "detail": "Tous grades confondus.",
+      "by": [
+        "Choka Akimichi"
+      ]
+    },
+    {
+      "id": "a1",
+      "sec": "academie",
+      "group": "Discipline et éducation",
+      "lvl": "rule",
+      "title": "Le respect n’est pas assez exigé à l’académie",
+      "detail": "Éducation stricte : aucun manque de respect ne doit être toléré.",
+      "by": [
+        "Zei Hyuga"
+      ]
+    },
+    {
+      "id": "a2",
+      "sec": "academie",
+      "group": "Discipline et éducation",
+      "lvl": "rule",
+      "title": "Un examen sans rapport avec les questions données",
+      "detail": "Les questions de l’examen ne correspondent pas à celles données en préparation.",
+      "by": [
+        "Isa Rei"
+      ]
+    },
+    {
+      "id": "a3",
+      "sec": "academie",
+      "group": "Discipline et éducation",
+      "lvl": "rule",
+      "title": "Cours de Kenseikan réservés aux professeurs généraux",
+      "detail": "Pour donner ces cours, il faut passer professeur général (techniques de rang D et C).",
+      "by": [
+        "Takuma Sendo"
+      ]
+    },
+    {
+      "id": "a4",
+      "sec": "academie",
+      "group": "Examens et progression",
+      "lvl": "rule",
+      "title": "Des équipes déséquilibrées à l’examen Chunin",
+      "detail": "Elles sont trop aléatoires, surtout côté KG.",
+      "by": [
+        "Takuma Sendo"
+      ]
+    },
+    {
+      "id": "a5",
+      "sec": "academie",
+      "group": "Examens et progression",
+      "lvl": "rule",
+      "title": "Passer Chunin est difficile pour certains",
+      "detail": "Hors mission de passation. Proposition : des examens de fin d’année plus accessibles, plutôt le samedi, car beaucoup attendent des années pour monter Chunin.",
+      "by": []
+    },
+    {
+      "id": "a6",
+      "sec": "academie",
+      "group": "Examens et progression",
+      "lvl": "rule",
+      "title": "Interdiction d’examen de 2 ans pour les Genin",
+      "detail": "Un enfant de 13-14 ans fait des bêtises. Réserver cette punition aux fautes graves et aux récidives.",
+      "by": []
+    },
+    {
+      "id": "a7",
+      "sec": "academie",
+      "group": "Examens et progression",
+      "lvl": "rule",
+      "title": "Certains profils sont délaissés",
+      "detail": "Les moines, par exemple, sont peu présents alors qu’ils apportent beaucoup. S’adapter à chaque profil.",
+      "by": []
+    },
+    {
+      "id": "m1",
+      "sec": "militaire",
+      "group": "Sélection",
+      "lvl": "rule",
+      "title": "Toujours les mêmes dans les listes",
+      "detail": "Capture de drapeau, bastion, guerre.",
+      "by": [
+        "Choka Akimichi",
+        "Takuma Sendo",
+        "Isa Rei"
+      ]
+    },
+    {
+      "id": "m2",
+      "sec": "militaire",
+      "group": "Sélection",
+      "lvl": "rule",
+      "title": "Des listes présélectionnées",
+      "detail": "Certains cherchent à participer sans y arriver et parlent de copinage.",
+      "by": []
+    },
+    {
+      "id": "m3",
+      "sec": "militaire",
+      "group": "Sélection",
+      "lvl": "rule",
+      "title": "Des non-militaires pris à la place des militaires",
+      "detail": "Certains pris à chaque fois ne font même pas partie de la militaire. Cas cité : Ranki Hoshino.",
+      "by": []
+    },
+    {
+      "id": "m4",
+      "sec": "militaire",
+      "group": "Bas gradés",
+      "lvl": "rule",
+      "title": "Pas de sanction quand un bas gradé manque de respect",
+      "detail": "Idées évoquées : créer un endroit à l’académie pour ramener les bas gradés, couper les cheveux pour le déshonneur, retirer la tenue et imposer une tenue honteuse.",
+      "by": []
+    },
+    {
+      "id": "m5",
+      "sec": "militaire",
+      "group": "Sections",
+      "lvl": "culture",
+      "title": "Beaucoup de copinage dans les sections",
+      "detail": "",
+      "by": []
+    },
+    {
+      "id": "p1",
+      "sec": "police",
+      "group": "Règlement et lois",
+      "lvl": "rule",
+      "title": "Des lois jugées abusives",
+      "detail": "Par exemple la roulade, ou la différence entre un balcon et un toit.",
+      "by": []
+    },
+    {
+      "id": "p2",
+      "sec": "police",
+      "group": "Règlement et lois",
+      "lvl": "rule",
+      "title": "Des amendes trop chères",
+      "detail": "Avec des abus fréquents de leur part.",
+      "by": []
+    },
+    {
+      "id": "p3",
+      "sec": "police",
+      "group": "Règlement et lois",
+      "lvl": "rule",
+      "title": "Des textes de loi à rendre plus logiques",
+      "detail": "",
+      "by": []
+    },
+    {
+      "id": "p4",
+      "sec": "police",
+      "group": "Méthodes et comportement",
+      "lvl": "rule",
+      "title": "Des interventions à l’académie sans autorisation",
+      "detail": "Surtout sans chef de section pour traiter la situation.",
+      "by": []
+    },
+    {
+      "id": "p5",
+      "sec": "police",
+      "group": "Méthodes et comportement",
+      "lvl": "culture",
+      "title": "Des méthodes extrêmes",
+      "detail": "La police est jugée néfaste dans sa façon de faire. Les méthodes extrêmes pourraient être évitées.",
+      "by": []
+    },
+    {
+      "id": "p6",
+      "sec": "police",
+      "group": "Méthodes et comportement",
+      "lvl": "culture",
+      "title": "Une police qui se croit au-dessus des autres",
+      "detail": "",
+      "by": []
+    }
+  ],
+  "solutions": [],
+  "users": [
+    {
+      "id": "u_founder_1792336157389",
+      "firstName": "Ayato",
+      "lastName": "Aki",
+      "fullName": "Ayato Aki",
+      "passwordHash": "f74898c5fc5325d790929978e34d293be90d865c986b340b5a4d4c5c69963278",
+      "salt": "2fcd2d0ce31b5f10932373aa82e132a7",
+      "role": "superadmin",
+      "color": "#C9480F",
+      "createdAt": 1792336157389
+    }
+  ],
+  "markers": [
+    {
+      "id": "m_palais",
+      "name": "Palais du Fondateur",
+      "description": "Grand Palais central au cœur du village, siège du Fondateur Ayato Aki et lieu des décrets officiels.",
+      "x": 48,
+      "y": 62,
+      "category": "village",
+      "icon": "castle",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000000
+    },
+    {
+      "id": "m_police",
+      "name": "Police Militaire",
+      "description": "Quartier général des forces de maintien de l’ordre, surveillance des secteurs et sécurité intérieure.",
+      "x": 24,
+      "y": 53,
+      "category": "police",
+      "icon": "shield",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000001
+    },
+    {
+      "id": "m_academie",
+      "name": "Académie",
+      "description": "Salles de cours et terrains d’examens pour la formation des aspirants et jeunes shinobi.",
+      "x": 74,
+      "y": 31,
+      "category": "academie",
+      "icon": "school",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000002
+    },
+    {
+      "id": "m_hopital",
+      "name": "Hôpital",
+      "description": "Complexe hospitalier central pour le soin des ninjas blessés et la médecine villageoise.",
+      "x": 65,
+      "y": 47,
+      "category": "village",
+      "icon": "hospital",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000003
+    },
+    {
+      "id": "m_scientifique",
+      "name": "Scientifique",
+      "description": "Laboratoires de recherche ninja, armement technologique et analyse de chakra.",
+      "x": 40,
+      "y": 15,
+      "category": "autre",
+      "icon": "flask",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000004
+    },
+    {
+      "id": "m_bdm",
+      "name": "BDM (Bureau des Missions)",
+      "description": "Attribution et validation des missions militaires, registres d’escouades et stratégie.",
+      "x": 38,
+      "y": 38,
+      "category": "militaire",
+      "icon": "briefcase",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000005
+    },
+    {
+      "id": "m_economie",
+      "name": "Économie",
+      "description": "Direction financière du village, perception des taxes, trésorerie et subventions des sections.",
+      "x": 50,
+      "y": 39,
+      "category": "autre",
+      "icon": "coins",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000006
+    },
+    {
+      "id": "m_dojo",
+      "name": "Dojo Sumo",
+      "description": "Arène et dojo d’entraînement physique intensif et combat au corps à corps.",
+      "x": 63,
+      "y": 56,
+      "category": "militaire",
+      "icon": "swords",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000007
+    },
+    {
+      "id": "m_forge",
+      "name": "Forge",
+      "description": "Fabrication et réparation des katanas, kunais, shurikens et armures de protection.",
+      "x": 57,
+      "y": 63,
+      "category": "autre",
+      "icon": "hammer",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000008
+    },
+    {
+      "id": "m_orphelinat",
+      "name": "Orphelinat",
+      "description": "Foyer d’accueil, de protection et d’éducation pour les orphelins du village.",
+      "x": 68,
+      "y": 65,
+      "category": "village",
+      "icon": "heart",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000009
+    },
+    {
+      "id": "m_archeologie",
+      "name": "Archéologie",
+      "description": "Fouilles historiques, études des reliques anciennes et ruines mystérieuses.",
+      "x": 62,
+      "y": 82,
+      "category": "autre",
+      "icon": "compass",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000010
+    },
+    {
+      "id": "m_bibliotheque",
+      "name": "Bibliothèque",
+      "description": "Conservation des archives, parchemins sacrés, techniques secrètes et savoirs ancestraux.",
+      "x": 39,
+      "y": 77,
+      "category": "academie",
+      "icon": "book",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000011
+    },
+    {
+      "id": "m_tribunal",
+      "name": "Tribunal",
+      "description": "Palais de justice pour juger les infractions aux lois et régler les contentieux entre habitants.",
+      "x": 29,
+      "y": 84,
+      "category": "police",
+      "icon": "scale",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000012
+    },
+    {
+      "id": "m_hyuga",
+      "name": "Domaine Hyûga",
+      "description": "Résidence et cour d’entraînement du clan Hyûga, héritiers du Byakugan.",
+      "x": 22,
+      "y": 35,
+      "category": "village",
+      "icon": "eye",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000013
+    },
+    {
+      "id": "m_nara",
+      "name": "Forêt & Domaine Nara",
+      "description": "Forêt sacrée du clan Nara, élevage des cerfs et maîtres de la manipulation des ombres.",
+      "x": 18,
+      "y": 72,
+      "category": "village",
+      "icon": "trees",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000014
+    },
+    {
+      "id": "m_akimichi",
+      "name": "Quartier Akimichi",
+      "description": "Domaine du clan Akimichi, entrepôts de nourriture et techniques caloriques de décuplement.",
+      "x": 51,
+      "y": 10,
+      "category": "village",
+      "icon": "utensils",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000015
+    },
+    {
+      "id": "m_senju",
+      "name": "Domaine Senju",
+      "description": "Terres boisées ancestrales du clan Senju, fondateurs originels du village et de la Volonté du Feu.",
+      "x": 86,
+      "y": 75,
+      "category": "village",
+      "icon": "flower",
+      "createdBy": "Ayato Aki",
+      "createdAt": 1700000000016
+    }
+  ]
+}
